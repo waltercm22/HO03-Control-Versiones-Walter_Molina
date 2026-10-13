@@ -1,0 +1,13 @@
+# Historial de cambios Walter Molina
+
+## Registro 1 — 13/10/2026
+- Se creó el repositorio del caso práctico HO-03.
+- Se configuró el archivo README.md con la descripción del proyecto.
+
+## Registro 2 — 13/10/2026
+- Se creó la rama desarrollo para organizar los cambios.
+- Se agregó el archivo historial-cambios.md.
+
+## Registro 3 — 13/10/2026
+- Se verificaron los archivos y el historial de commits.
+- Se integraron los cambios mediante una Pull Request hacia main.
