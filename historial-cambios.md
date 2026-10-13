@@ -11,3 +11,8 @@
 ## Registro 3 — 13/10/2026
 - Se verificaron los archivos y el historial de commits.
 - Se integraron los cambios mediante una Pull Request hacia main.
+
+
+## Registro 4 - 13/10/2026
+- Se verificó la documentación del repositorio en la rama desarrollo.
+- Se prepararon los cambios para su revisión e integración en main.
